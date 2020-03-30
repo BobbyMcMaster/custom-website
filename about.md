@@ -11,10 +11,9 @@ Graduation: 2021
 Bachelor of Science: Computer Science
 Minor: History
 
-**TECHNICAL EXPERIENCE**
+**Technical Experience**
 ========================
 **Computational Expression**, Java
-----------------------------------
   - Learned the computational structures needed to solve problems and produce artifacts
   - Emphasis on creative expression through a programming language
   - Taught how to organize and document source code effectively
@@ -58,6 +57,22 @@ Minor: History
   - Studied, designed and implemented analytics software
   - Learned how to extract knowledge from financial, political, and scientific sources of data
 
-  **Relevant Experience**
-  =======================
-  **Technical Assistant**, Allegheny County Treasurer's Office, *Pittsburgh, PA*              *May 2019 - August 2019*
+**Relevant Experience**
+=======================
+**Technical Assistant**, Allegheny County Treasurer's Office, *Pittsburgh, PA*              *May 2019 - August 2019*
+**(IT/Computer Services Department)**
+  - Assisted in managing the Treasurer’s Office WordPress website by regularly updating content
+  - Gained practical experience involving computer hardware and software setup including an online chat program to assist community members when filing taxes
+  - Provided daily support for computer network users throughout the Treasurer’s Office
+
+**Office Assistant**, Allegheny County Treasurer's Office, *Pittsburgh, PA*
+**(License Department)** *May 2018 - August 2018*
+  - Learned the daily business practices and functions of a multi-faceted government office
+  - Developed useful job skills working with customer service assisting taxpayers with situations encountered while using the services of the Treasurer’s Office
+
+**Work Experience**
+===================
+**Cafe Associate**, Panera Bread, *Pittsburgh, PA*
+*October 2015 - May 2018*
+  - Trained newly hired associates on dining room maintenance, dishwashing procedures, and line cook responsibilities
+  - Assisted with restaurant upkeep including cleaning dining areas and washing dishes
