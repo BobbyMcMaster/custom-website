@@ -34,7 +34,7 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Resume & Education
+- title: Education and Work
   url: /about/
 - title: Blog
   url: /blog/
