@@ -3,6 +3,7 @@ layout: page
 title: Resume and Education
 ---
 
+To see my full resume, click [here](pdfs/RobertMcMaster.pdf)
 
 **Education**
 ============
