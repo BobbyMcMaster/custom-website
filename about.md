@@ -107,4 +107,4 @@ Minor: History
   - As member of junior leadership program - assisted instructors and led classes of younger students
 
 
-**Github:** https://github.com/BobbyMcMaster
+[**Github Account**](https://github.com/BobbyMcMaster)
