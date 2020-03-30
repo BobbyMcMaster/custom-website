@@ -1,6 +1,14 @@
 ---
 layout: page
-title: About this website
+title: Resume and Education
 ---
+#**EDUCATION**
+**Allegheny College**,*Meadville, PA*                          Graduation: 2021
+Bachelor of Science: Computer Science
+Minor: History
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+#**TECHNICAL EXPERIENCE**
+**Computational Expression**, Java
+  - Learned the computational structures needed to solve problems and produce artifacts
+  - Emphasis on creative expression through a programming language
+  - Taught how to organize and document source code effectively
