@@ -2,7 +2,8 @@
 layout: page
 title: Resume and Education
 ---
-#**EDUCATION**
+**EDUCATION**
+============
 **Allegheny College**,*Meadville, PA*                          Graduation: 2021
 Bachelor of Science: Computer Science
 Minor: History
