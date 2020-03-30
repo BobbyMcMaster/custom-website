@@ -59,8 +59,8 @@ Minor: History
 
 **Relevant Experience**
 =======================
-**Technical Assistant**, Allegheny County Treasurer's Office, *Pittsburgh, PA*              *May 2019 - August 2019*
-**(IT/Computer Services Department)**
+**Technical Assistant**, Allegheny County Treasurer's Office, *Pittsburgh, PA*              
+**(IT/Computer Services Department)** *May 2019 - August 2019*
   - Assisted in managing the Treasurer’s Office WordPress website by regularly updating content
   - Gained practical experience involving computer hardware and software setup including an online chat program to assist community members when filing taxes
   - Provided daily support for computer network users throughout the Treasurer’s Office
@@ -76,3 +76,35 @@ Minor: History
 *October 2015 - May 2018*
   - Trained newly hired associates on dining room maintenance, dishwashing procedures, and line cook responsibilities
   - Assisted with restaurant upkeep including cleaning dining areas and washing dishes
+
+**Recreation Counselor**, Scott Township Park, *Pittsburgh, PA*
+*June - July 2015 - 2017*
+  - Responsible for 18 active 1st & 2nd grade boys and supervised two student volunteers
+  - Organized daily activities for children in my group and helped plan weekly camp-wide events
+  - Learned to diplomatically communicate to parents about their child’s behavior
+
+**Leadership and Service**
+==========================
+**Messenger/Health and Wellness Chair**, Phi Kappa Psi, *Allegheny College*
+*November 2018 - Present*
+  - Assist Executive Board members in disseminating relevant information to chapter members
+  - Responsible for the physical/mental health and wellbeing of the members of the chapter by regularly
+  - Participate in fundraising efforts for St. James Haven, a local men’s shelter
+
+**Senior Member**, Alpha Phi Omega, *Allegheny College*
+*November 2018 - Present*
+  - Complete a minimum of 15 hours of community service per semester
+  - Regularly attend community “Service Saturdays” which are devoted to assisting the people of Meadville
+
+**Treasurer**, Allegheny Club Soccer Team, *Allegheny College*
+*August 2018 - May 2019*
+  - Communicated with administration and obtained increased funding for upgraded soccer equipment
+  - Assisted in planning and organizing team practices by developing drill schedules and assigning members to practice teams
+
+**3rd Degree Black Belt in Taekwondo**, Steel City ATA, *Pittsburgh, PA*
+*February 2005 - November 2014*
+  - Developed discipline and leadership skills through rigorous physical and mental training
+  - As member of junior leadership program - assisted instructors and led classes of younger students
+
+
+**Github:** https://github.com/BobbyMcMaster
