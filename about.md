@@ -13,20 +13,20 @@ Minor: History
 **TECHNICAL EXPERIENCE**
 ========================
 **Computational Expression**, Java
---
+----------------------------------
   - Learned the computational structures needed to solve problems and produce artifacts
   - Emphasis on creative expression through a programming language
   - Taught how to organize and document source code effectively
 **Discrete Structures**, Python
---
+-----------------------------------
   - Emphasis on understanding the abstract structures used to represent discrete objects
   - Learned computational methods and logical principles needed to create and manipulate discrete objects
 **Programming Languages**, C, C++
---
+-----------------------------------
   - Studied the fundamental concepts that arise in different programming language paradigms
   - Leveraged the styles and features of programming languages to implement efficient computer software
 **Web Development**, HTML, CSS, Javascript
---
+-------------------------------------
   - Learned the computational methods needed to create websites that are useful to people
   - Investigated approaches to developing efficient, accessible, and aesthetically pleasing websites that adhere to international standards
   - Emphasis on understanding intercultural perspectives that arise during the design, implementation, and maintenance of mobile-ready websites
