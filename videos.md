@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Videos
+layout: page
 feature_image: "images/mw1.jpg"
-logo: "images/seniorpic1.jpg"
+feature_text: |
+  ## 
 ---
