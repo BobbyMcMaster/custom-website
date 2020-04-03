@@ -40,6 +40,8 @@ navigation_header:
   url: /blog/
 - title: Videos
   url: /videos/
+- title: Contact
+  url: /contact/
 
 
 # Footer nav
