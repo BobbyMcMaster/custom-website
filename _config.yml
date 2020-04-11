@@ -36,8 +36,8 @@ navigation_header:
   url: /
 - title: Resume
   url: /Resume/
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 - title: Videos
   url: /videos/
 - title: Contact
