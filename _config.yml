@@ -48,6 +48,8 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
+- title: Social Media
+  url: /includes/SMicons1/
 
 # Collections
 collections:
