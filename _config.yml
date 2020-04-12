@@ -33,7 +33,7 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: /index1.html/
+  url: /
 - title: Resume
   url: /Resume/
 #- title: Blog
