@@ -24,7 +24,7 @@ baseurl: ''
 title: 'Robert McMaster'
 description: ''
 permalink: pretty
-logo: "images/seniorpic1.jpg"
+logo: "/images/seniorpic1.jpg"
 
 # Pagination
 paginate: 5
