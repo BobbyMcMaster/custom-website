@@ -38,6 +38,8 @@ navigation_header:
   url: /Resume/
 #- title: Blog
 #  url: /blog/
+- title: Projects
+  url: /Projects/
 - title: Videos
   url: /videos/
 - title: Contact
