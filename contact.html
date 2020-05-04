@@ -5,35 +5,40 @@ feature_image: "/images/pghskyline.jpg"
 feature_text: |
 ---
 
-<head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165287879-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<html>
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165287879-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-  gtag('config', 'UA-165287879-1');
-</script>
-</head>
+      gtag('config', 'UA-165287879-1');
+    </script>
+  </head>
 
-<form
-  action="https://formspree.io/mzbajjbz"
-  method="POST"
->
-  <label>
-    Your Name:
-    <input type="text" name="name">
-  </label>
-  <label>
-    Your Email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Message:
-    <textarea name="message"></textarea>
-  </label>
-  <input type="submit" value="Send">
-</form>
+  <body>
 
-{% include SMicons1.html %}
+    <form
+      action="https://formspree.io/mzbajjbz"
+      method="POST"
+      >
+      <label>
+        Your Name:
+        <input type="text" name="name">
+      </label>
+      <label>
+          Your Email:
+          <input type="email" name="_replyto">
+      </label>
+      <label>
+        Message:
+        <textarea name="message"></textarea>
+      </label>
+      <input type="submit" value="Send">
+    </form>
+
+    {% include SMicons1.html %}
+  </body>
+</html>
